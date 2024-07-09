@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Bluetooth LED Control</h1>
+      <h1>Bluetooth Bell Control</h1>
       <BluetoothLE />
     </>
   )
